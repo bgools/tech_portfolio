@@ -1,0 +1,15 @@
+.jumbotron {
+    background-color: rgba(0, 0, 0, 0.564);
+}
+.navbar {
+    background-color: rgba(0, 0, 0, 0.564);
+}
+h1 {
+    color: whitesmoke;
+}
+p {
+    color: whitesmoke;
+}
+footer {
+    text-align: center;
+}
